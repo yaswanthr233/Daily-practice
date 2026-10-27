@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -26,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0137-single-number-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
