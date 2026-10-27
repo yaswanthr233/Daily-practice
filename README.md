@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yaswanthr233/Daily-practice/tree/master/0168-excel-sheet-column-title) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
