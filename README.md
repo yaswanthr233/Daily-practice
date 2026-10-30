@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0137-single-number-ii) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yaswanthr233/Daily-practice/tree/master/0162-find-peak-element) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
