@@ -9,15 +9,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/yaswanthr233/Daily-practice/tree/master/0162-find-peak-element) |
+| [0905-sort-array-by-parity](https://github.com/yaswanthr233/Daily-practice/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/yaswanthr233/Daily-practice/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/yaswanthr233/Daily-practice/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
