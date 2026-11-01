@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yaswanthr233/Daily-practice/tree/master/0168-excel-sheet-column-title) |
+| [1903-largest-odd-number-in-string](https://github.com/yaswanthr233/Daily-practice/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/yaswanthr233/Daily-practice/tree/master/0168-excel-sheet-column-title) |
+| [1903-largest-odd-number-in-string](https://github.com/yaswanthr233/Daily-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/yaswanthr233/Daily-practice/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
