@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yaswanthr233/Daily-practice/tree/master/0014-longest-common-prefix) |
 | [0040-combination-sum-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yaswanthr233/Daily-practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yaswanthr233/Daily-practice/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/yaswanthr233/Daily-practice/tree/master/0168-excel-sheet-column-title) |
 | [1903-largest-odd-number-in-string](https://github.com/yaswanthr233/Daily-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/yaswanthr233/Daily-practice/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yaswanthr233/Daily-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
