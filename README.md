@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yaswanthr233/Daily-practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yaswanthr233/Daily-practice/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/yaswanthr233/Daily-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yaswanthr233/Daily-practice/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/yaswanthr233/Daily-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/yaswanthr233/Daily-practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/yaswanthr233/Daily-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yaswanthr233/Daily-practice/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yaswanthr233/Daily-practice/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yaswanthr233/Daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
