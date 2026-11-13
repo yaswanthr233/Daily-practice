@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yaswanthr233/Daily-practice/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/yaswanthr233/Daily-practice/tree/master/0168-excel-sheet-column-title) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/yaswanthr233/Daily-practice/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/yaswanthr233/Daily-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
